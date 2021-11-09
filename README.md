@@ -7,5 +7,5 @@ The information are getting from a RestAPI with using Alamofire framwork. In add
 In the app the MVVM architecture is used for the seperation of concerns. With the advantage of these concept, the unit tests applyed with proper way. In additon, the maintenance of code is really suitable. 
 
 
-![alt-text](https://raw.githubusercontent.com/ozanbarisgunaydin/LoreOfHarryPotter/main/LoreOfHarryPotter_XCode_SideMenu.png) 
+![alt-text](https://github.com/ozanbarisgunaydin/LoreOfHarryPotter/blob/main/LoreOfHarry_Video_Demo%2B.gif) 
 ![alt-text](https://raw.githubusercontent.com/ozanbarisgunaydin/LoreOfHarryPotter/main/LoreOfHarryPotter_XCode_SideMenu.png) 
